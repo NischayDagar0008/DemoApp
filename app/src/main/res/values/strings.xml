@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="welcome">Welcome to</string>
+    <string name="demo">MY DEMO APP</string>
+    <string name="mail">E-MAIL</string>
+    <string name="pass">PASSWORD</string>
+    <string name="facebook_app_id">400041334204581</string>
+    <string name="fb_login_protocol_scheme">fb400041334204581</string>
+</resources>
